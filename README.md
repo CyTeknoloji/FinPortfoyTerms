@@ -1,1 +1,24 @@
-# FinPortfoyTerms
+# Şartlar ve Koşullar
+
+Bu şartlar ve koşullar, CyTech (bundan böyle "Hizmet Sağlayıcı" olarak anılacaktır) tarafından Ücretsiz bir hizmet olarak oluşturulan mobil cihazlar için FinPortföy uygulaması (bundan böyle "Uygulama" olarak anılacaktır) için geçerlidir.
+
+Uygulamayı indirdiğinizde veya kullandığınızda, aşağıdaki şartları otomatik olarak kabul etmiş olursunuz. Uygulamayı kullanmadan önce bu şartları dikkatlice okumanız ve anlamanız önemle tavsiye edilir. Uygulamanın, Uygulamanın herhangi bir bölümünün veya ticari markalarımızın yetkisiz kopyalanması, değiştirilmesi kesinlikle yasaktır. Uygulamanın kaynak kodunu çıkarma, Uygulamayı başka dillere çevirme veya türev sürümler oluşturma girişimlerine izin verilmez. Uygulama ile ilgili tüm ticari markalar, telif hakları, veritabanı hakları ve diğer fikri mülkiyet hakları Hizmet Sağlayıcının mülkiyetinde kalır.
+
+Hizmet Sağlayıcı, Uygulamanın mümkün olduğunca yararlı ve verimli olmasını sağlamaya kendini adamıştır. Bu nedenle, Uygulamayı değiştirme veya hizmetleri için herhangi bir zamanda ve herhangi bir nedenle ücret talep etme hakkını saklı tutar. Hizmet Sağlayıcısı, Uygulama veya hizmetleri için herhangi bir ücretin size açıkça bildirileceğini garanti eder.
+
+Uygulama, Hizmeti sağlamak için Hizmet Sağlayıcısına sağladığınız kişisel verileri depolar ve işler. Telefonunuzun güvenliğini ve Uygulamaya erişimi sağlamak sizin sorumluluğunuzdadır. Hizmet Sağlayıcısı, cihazınızın resmi işletim sistemi tarafından uygulanan yazılım kısıtlamalarını ve sınırlamalarını kaldırmayı içeren telefonunuzun jailbreak veya root işlemlerini kesinlikle yapmamanızı önerir. Bu tür eylemler telefonunuzu kötü amaçlı yazılımlara, virüslere, kötü amaçlı programlara maruz bırakabilir, telefonunuzun güvenlik özelliklerini tehlikeye atabilir ve Uygulamanın düzgün çalışmamasına veya hiç çalışmamasına neden olabilir.
+Lütfen Uygulamanın kendi Şartlar ve Koşulları olan üçüncü taraf hizmetlerini kullandığını unutmayın. Aşağıda Uygulama tarafından kullanılan üçüncü taraf hizmet sağlayıcılarının Şartlar ve Koşullarına bağlantılar verilmiştir:
+• Google Play Hizmetleri
+• AdMob
+• Firebase için Google Analytics
+• Firebase Crashlytics
+
+Lütfen Hizmet Sağlayıcısının belirli yönlerden sorumlu olmadığını unutmayın. Uygulamanın bazı işlevleri, Wi-Fi olabilen veya mobil ağ sağlayıcınız tarafından sağlanan etkin bir internet bağlantısı gerektirir. Uygulamanın Wi-Fi erişiminin olmaması veya veri kullanım hakkınızın tükenmesi nedeniyle tam kapasitede çalışmaması durumunda Servis Sağlayıcısı sorumlu tutulamaz.
+
+Uygulamayı bir Wi-Fi alanı dışında kullanıyorsanız, mobil ağ sağlayıcınızın sözleşme şartlarının hala geçerli olduğunu lütfen unutmayın. Sonuç olarak, uygulamaya bağlanma sırasında mobil sağlayıcınızdan veri kullanımı için ücretler veya diğer üçüncü taraf ücretleri alabilirsiniz. Uygulamayı kullanarak, veri dolaşımını devre dışı bırakmadan uygulamayı kendi bölgeniz (yani bölge veya ülke) dışında kullanmanız durumunda dolaşım veri ücretleri dahil olmak üzere bu tür ücretlerin sorumluluğunu kabul edersiniz. Uygulamayı kullandığınız cihazın faturasını ödeyen kişi siz değilseniz, faturayı ödeyen kişiden izin aldığınızı varsayarlar.
+
+Benzer şekilde, Servis Sağlayıcısı da uygulamayı kullanımınızdan her zaman sorumlu tutulamaz. Örneğin, cihazınızın şarjının dolu kalmasını sağlamak sizin sorumluluğunuzdadır. Cihazınızın pili biterse ve Servise erişemiyorsanız, Servis Sağlayıcısı sorumlu tutulamaz.
+
+Hizmet Sağlayıcının uygulamayı kullanımınıza ilişkin sorumluluğu açısından, uygulamanın her zaman güncel ve doğru olmasını sağlamak için çabalasalar da, size sunabilmeleri için kendilerine bilgi sağlamaları için üçüncü taraflara güvendiklerini belirtmek önemlidir. Hizmet Sağlayıcı, uygulamanın bu işlevine tamamen güvenmeniz sonucunda yaşadığınız doğrudan veya dolaylı herhangi bir kayıptan sorumlu değildir.
+
+Hizmet Sağlayıcı, uygulamayı bir noktada güncellemek isteyebilir. Uygulama şu anda işletim sistemi gereksinimlerine göre kullanılabilir durumdadır (ve uygulamanın kullanılabilirliğini genişletmeye karar verdikleri ek sistemler için) değişebilir ve uygulamayı kullanmaya devam etmek istiyorsanız güncellemeleri indirmeniz gerekecektir. Hizmet Sağlayıcı, uygulamayı her zaman sizin için alakalı ve/veya cihazınıza yüklü belirli işletim sistemi sürümüyle uyumlu olacak şekilde güncelleyeceğini garanti etmez. Ancak, size sunulduğunda uygulama güncellemelerini her zaman kabul etmeyi kabul edersiniz. Hizmet Sağlayıcı ayrıca uygulamayı sağlamayı bırakmak isteyebilir ve size fesih bildiriminde bulunmadan kullanımını istediği zaman sonlandırabilir. Aksi belirtilmediği takdirde, herhangi bir fesih durumunda (a) bu şartlarda size verilen haklar ve lisanslar sona erecektir; (b) uygulamayı kullanmayı bırakmalı ve (gerekirse) uygulamayı sizden silmelisiniz.
